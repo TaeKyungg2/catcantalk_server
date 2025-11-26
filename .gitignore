@@ -2,3 +2,4 @@
 cat/
 *.log
 __pycache__/
+myenv/
